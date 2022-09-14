@@ -29,9 +29,9 @@ client.onreadystatechange = function() {
       </Head>
 
       <main>
-        <Header title="Welcome to Omars app!" />
+        <Header title="Welcome to Omars app! ..Added script for GET call from Driver Feedback Table" />
         <p className="description">
-          Get started by editing ..Added script for GET call from Driver Feedback Table<code>pages/index.js</code>
+          Get started by editing <code>pages/index.js</code>
         </p>
         <p>
           
